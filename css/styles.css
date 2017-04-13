@@ -1,0 +1,14 @@
+.output {
+  /*display: none;*/
+  width: 300px;
+  background-color: powderblue;
+  padding: 50px;
+  height: 400px;
+  border-radius: 3px;
+  text-align:center;
+  margin: 0 auto;
+}
+.container {
+  margin: 0 auto;
+  width:100%;
+}
